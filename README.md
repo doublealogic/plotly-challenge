@@ -20,4 +20,22 @@ Below are the steps I took when creating this dashboard.
 
 * Used `otu_labels` as the hovertext for the chart.
 
+3. Created a bubble chart that displays each sample.
+
+* Used `otu_ids` for the x values.
+
+* Used `sample_values` for the y values.
+
+* Used `sample_values` for the marker size.
+
+* Used `otu_ids` for the marker colors.
+
+* Used `otu_labels` for the text values.
+
+4. Displayed the sample metadata, for example, an individual's demographic information.
+
+5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
+
+6. Updated all of the plots any time that a new sample is selected.
+
 ## Step 2: Additional Gauge Chart
