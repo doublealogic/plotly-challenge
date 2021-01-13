@@ -39,3 +39,13 @@ Below are the steps I took when creating this dashboard.
 6. Updated all of the plots any time that a new sample is selected.
 
 ## Step 2: Additional Gauge Chart
+
+* I adapted this Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
+
+* To match with my data, I modified the example gauge code to account for values ranging from 0 through 9.
+
+* Updated the chart whenever a new sample is selected.
+
+## Data Source
+
+Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
