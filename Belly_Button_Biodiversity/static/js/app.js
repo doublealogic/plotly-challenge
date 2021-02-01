@@ -47,5 +47,7 @@ function createCharts(sample) {
               }
         ];
 
-    })
+        Plotly.newPlot("bubble", bubbleChartData, bubbleChartLayout);
+
+    });
 }
