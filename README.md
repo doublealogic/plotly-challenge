@@ -38,7 +38,7 @@ Below are the steps I took when creating this dashboard.
 
 6. Updated all of the plots any time that a new sample is selected.
 
-You can find this step complete in the app.js file in this repository.
+You can find this step complete in the [`app.js`](Belly_Button_Biodiversity/static/js/app.js) file in this repository.
 
 ## Step 2: Additional Gauge Chart
 
