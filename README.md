@@ -38,6 +38,8 @@ Below are the steps I took when creating this dashboard.
 
 6. Updated all of the plots any time that a new sample is selected.
 
+You can find this step complete in the app.js file in this repository.
+
 ## Step 2: Additional Gauge Chart
 
 * I adapted this Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
