@@ -48,7 +48,7 @@ You can find this step complete in the [`app.js`](Belly_Button_Biodiversity/stat
 
 * Updated the chart whenever a new sample is selected.
 
-You can find this step complete in the bonus.js file in this repository.
+You can find this step complete in the [`bonus.js`](Belly_Button_Biodiversity/static/js/bonus.js) file in this repository.
 
 ## Data Source
 
