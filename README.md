@@ -48,6 +48,8 @@ You can find this step complete in the app.js file in this repository.
 
 * Updated the chart whenever a new sample is selected.
 
+You can find this step complete in the bonus.js file in this repository.
+
 ## Data Source
 
 Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
